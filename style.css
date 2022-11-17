@@ -1,0 +1,54 @@
+   body{
+
+background: url("black-background.gif") 
+no-repeat;
+background-size: 100%;
+
+   }
+
+   h1{
+font-family:  Helvetica;
+    
+   }
+   
+   
+   
+   
+   
+   div{
+
+    background-color: black ; 
+
+   }
+.colorCharcoal{
+
+background-color: #34282C;
+
+
+}
+
+.colorOil{
+
+    background-color: #3B3131;
+
+
+}
+
+.sampleBox{
+
+margin: 50px;
+padding: 10px;
+border:10px; 
+border-color: white;
+border-style: ridge;
+color:white;
+
+
+
+}
+.overflow-text{
+
+   overflow: auto;
+
+}
+
